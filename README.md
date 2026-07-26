@@ -56,4 +56,4 @@ I'm a biologist working in bioinformatics, and I build reproducible analysis and
 workflows in R and Python.
 
 Available for freelance data-analysis and simulation projects.
-Connect on [LinkedIn][(https://www.linkedin.com/in/jos%C3%A9-alejandro-v%C3%A1zquez-d%C3%ADaz-0702711b5/details/featured/)].
+Connect on [LinkedIn](https://www.linkedin.com/in/jos%C3%A9-alejandro-v%C3%A1zquez-d%C3%ADaz-0702711b5/details/featured/).
